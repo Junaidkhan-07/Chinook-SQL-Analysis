@@ -155,7 +155,7 @@ The monthly results show a generally consistent recurring sales pattern, with se
 
 ### Overall Sales Summary
 
-![Overall Sales Summary](Screenshots/01_Overall_Sales_Summary.png)
+Overall_Sales_Summary.png
 
 ### Top 10 Customers
 
